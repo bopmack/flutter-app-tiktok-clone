@@ -1,0 +1,1 @@
+See https://github.com/best-flutter/flutter_page_indicator

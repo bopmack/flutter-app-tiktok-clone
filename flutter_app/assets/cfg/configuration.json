@@ -1,0 +1,6 @@
+{
+  "app_name": "Leuke",
+  "base_url": "https://domain.com/",
+  "pusher_key": "xxxxxxxx",
+  "pusher_app_cluster": "xxxx"
+}
